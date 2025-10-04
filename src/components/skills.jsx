@@ -15,7 +15,7 @@ export function Tools() {
                                     <img
                                     className='tools-img'
                                         // src="./assets/r.png"
-                                        src="/Portfolio_website/assets/r.png"
+                                        src="/Personal-Portfolio-Website/assets/r.png"
                                         width={100} height={100}
                                         alt=""
                                     ></img>

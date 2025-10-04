@@ -25,7 +25,7 @@ export function HomeBanner() {
               <h1 className="pt-32 font-semibold tracking-tight text-balance text-gray-900 xl:text-5xl lg:text-4xl md:text-3xl not-sm:text-3xl">
                 Hi, I am <span className='name-heading'>Alina Salam</span>
                 <br></br>
-                Electrical Engineering Student
+                Aspiring Electrical Engineering
               </h1>
               {/* <p className="mt-8 font-medium text-pretty text-gray-500 not-lg:mt-2 lg:text-xl md:text-lg sm:text-xl">
                 My expertise lies in designing and implementing responsive and user-friendly applications utilizing modern frameworks, including React, Angular, React Native, Shopify, and WordPress
@@ -39,7 +39,7 @@ export function HomeBanner() {
                 </a>  
               </div> */}
               <div className='mt-10 flex items-center gap-x-6 not-lg:mt-5'> 
-                <a href='https://github.com/waqassalman' target='_blank'>
+                <a href='https://www.linkedin.com/in/alinasalam' target='_blank'>
                 <img className=''
                 // src="./assets/linkedin.png" For Publishing link
                 src="/Personal-Portfolio-Website/assets/linkedin.png"
@@ -47,7 +47,7 @@ export function HomeBanner() {
                 alt="#"
                 ></img>
                 </a>
-                <a href='https://www.linkedin.com/in/alinasalam' target='_blank'>
+                <a href='https://github.com/salama20-1' target='_blank'>
                  <img 
                 // src="./assets/github.png" For Publishing link
                 src="/Personal-Portfolio-Website/assets/github.png"
