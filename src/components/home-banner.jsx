@@ -42,7 +42,7 @@ export function HomeBanner() {
                 <a href='https://github.com/waqassalman' target='_blank'>
                 <img className=''
                 // src="./assets/linkedin.png" For Publishing link
-                src="/Portfolio_website/assets/linkedin.png"
+                src="/Personal-Portfolio-Website/assets/linkedin.png"
                 width={32} height={32}
                 alt="#"
                 ></img>
@@ -50,7 +50,7 @@ export function HomeBanner() {
                 <a href='https://www.linkedin.com/in/alinasalam' target='_blank'>
                  <img 
                 // src="./assets/github.png" For Publishing link
-                src="/Portfolio_website/assets/github.png"
+                src="/Personal-Portfolio-Website/assets/github.png"
                 width={32} height={32}
                 alt="#"
                 ></img>

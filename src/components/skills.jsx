@@ -25,7 +25,7 @@ export function Tools() {
                                     <img
                                     className='tools-img'
                                         // src="./assets/cad-file.png"
-                                        src="/Portfolio_website/assets/cad-file.png"
+                                        src="/Personal-Portfolio-Website/assets/cad-file.png"
                                         width={100} height={100}
                                         alt=""
                                     ></img>
@@ -35,7 +35,7 @@ export function Tools() {
                                     <img
                                     className='tools-img'
                                         // src="./assets/java.png"
-                                        src="/Portfolio_website/assets/java.png"
+                                        src="/Personal-Portfolio-Website/assets/java.png"
                                         width={100} height={100}
                                         alt=""
                                     ></img>
@@ -45,7 +45,7 @@ export function Tools() {
                                     <img
                                     className='tools-img'
                                         // src="./assets/python.png"
-                                        src="/Portfolio_website/assets/python.png"
+                                        src="/Personal-Portfolio-Website/assets/python.png"
                                         width={100} height={100}
                                         alt=""
                                     ></img>
@@ -55,7 +55,7 @@ export function Tools() {
                                     <img
                                     className='tools-img'
                                         // src="./assets/c-.png"
-                                        src="/Portfolio_website/assets/c-.png"
+                                        src="/Personal-Portfolio-Website/assets/c-.png"
                                         width={100} height={100}
                                         alt=""
                                     ></img>
