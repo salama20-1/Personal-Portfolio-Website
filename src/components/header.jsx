@@ -21,8 +21,8 @@ export function header() {
               <span className="sr-only"></span>
               <img
                 alt=""
-                src="./assets/alinalogo.png"
-                className="h-12 w-auto"
+                src="/assets/alinalogo.png"
+                className="h-20 w-auto"
               />
             </a>
           </div>
@@ -58,7 +58,7 @@ export function header() {
                 <img
                   alt=""
                   src="/assets/alinalogo.png"
-                  className="h-12 w-auto"
+                  className="h-20 w-auto"
                 />
               </a>
               <button
