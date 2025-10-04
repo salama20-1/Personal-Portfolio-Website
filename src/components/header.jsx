@@ -22,7 +22,7 @@ export function header() {
               <img
                 alt=""
                 src="/assets/alinalogo.png"
-                className="h-20 w-auto"
+                className="h-16 w-auto"
               />
             </a>
           </div>
@@ -58,7 +58,7 @@ export function header() {
                 <img
                   alt=""
                   src="/assets/alinalogo.png"
-                  className="h-20 w-auto"
+                  className="h-16 w-auto"
                 />
               </a>
               <button
