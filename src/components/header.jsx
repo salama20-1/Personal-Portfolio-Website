@@ -21,7 +21,7 @@ export function header() {
               <span className="sr-only"></span>
               <img
                 alt=""
-                src="/assets/alinalogo.png"
+                src="./assets/alinalogo.png"
                 className="h-12 w-auto"
               />
             </a>
@@ -57,7 +57,7 @@ export function header() {
                 <span className="sr-only">Your Company</span>
                 <img
                   alt=""
-                  src="/assets/alinalogo.png"
+                  src="./assets/alinalogo.png"
                   className="h-12 w-auto"
                 />
               </a>
